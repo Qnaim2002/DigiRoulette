@@ -1,0 +1,22 @@
+<svg width="560" height="140" viewBox="0 60 560 140" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="chromeClipShine2">
+<text x="0" y="0" text-anchor="start" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="46" letter-spacing="0.5">DigiRoulette</text>
+</clipPath>
+</defs>
+
+<g transform="translate(50,150) skewX(-13)">
+<text x="3" y="3" text-anchor="start" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="46" letter-spacing="0.5" fill="#150404" opacity="0.55">DigiRoulette</text>
+<text text-anchor="start" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="46" letter-spacing="0.5"><tspan fill="#e2454f" stroke="#5c0d14" stroke-width="1.8">Digi</tspan><tspan fill="#9b6fd1" stroke="#3a1a5c" stroke-width="1.8">Roulette</tspan></text>
+<rect x="-4" y="-38" width="370" height="24" fill="#fdfaf7" opacity="0.6" clip-path="url(#chromeClipShine2)"/>
+<rect x="-4" y="-6" width="370" height="14" fill="#000000" opacity="0.25" clip-path="url(#chromeClipShine2)"/>
+</g>
+
+<g>
+<ellipse cx="452" cy="130" rx="62" ry="12" fill="#c81e2c" opacity="0.9" transform="rotate(45 452 130)"/>
+<ellipse cx="452" cy="130" rx="62" ry="12" fill="#4a2b6b" opacity="0.9" transform="rotate(-45 452 130)"/>
+<circle cx="452" cy="130" r="27" fill="#fff5ea" stroke="#2a1a3d" stroke-width="1.5"/>
+<circle cx="452" cy="130" r="17" fill="none" stroke="#c81e2c" stroke-width="4"/>
+<ellipse cx="452" cy="130" rx="4.5" ry="16" fill="#1a1a1a" transform="rotate(-12 452 130)"/>
+</g>
+</svg>
